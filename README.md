@@ -66,19 +66,6 @@ Thông qua việc sử dụng dữ liệu tài chính và các mô hình hồi q
 
 ---
 
-### Quy trình xử lý dữ liệu
-
-1. Thu thập dữ liệu tài chính và vĩ mô
-2. Làm sạch dữ liệu, loại bỏ dữ liệu thiếu
-3. Tính toán các biến:
-
-   * ROA, ROE
-   * LnSIZE, LnAGE
-   * LEV, AST, CR
-   * GDP, CPI, lãi suất, tỷ giá
-
----
-
 ## Cơ sở lý thuyết
 
 Nghiên cứu dựa trên:
@@ -129,15 +116,51 @@ Trong đó:
 * β1, β2, β3, β4, β5, β6, β7, β8, β9, β10: Các tham số chưa biết của mô hình  
 * ε: Sai số của mô hình  
 
-## Hướng nghiên cứu
-- Mở rộng quy mô mẫu và thời gian nghiên cứu  
-- Bổ sung thêm các chỉ số đo lường hiệu quả tài chính  
-- Phân tích sâu theo từng ngành hoặc từng nhóm doanh nghiệp  
+---
+
+## Kết luận
+- Các yếu tố nội bộ có ảnh hưởng quan trọng đến hiệu quả tài chính doanh nghiệp  
+- Hiệu quả tài chính trong quá khứ tác động tích cực đến hiện tại  
+- Quy mô, tuổi doanh nghiệp, cấu trúc tài sản và thanh khoản có tác động tích cực  
+- Đòn bẩy tài chính có tác động tiêu cực  
+- GDP tác động tích cực, lạm phát và lãi suất tác động tiêu cực
+
+---
+
+## Khuyến nghị
+
+* Doanh nghiệp cần tối ưu hóa quy mô và sử dụng hiệu quả nguồn lực nội bộ  
+* Quản lý đòn bẩy tài chính hợp lý để giảm rủi ro  
+* Tăng cường quản trị thanh khoản và cấu trúc tài sản  
+* Chủ động theo dõi biến động kinh tế vĩ mô để điều chỉnh chiến lược  
+* Đầu tư vào công nghệ, nhân lực và đổi mới để nâng cao năng lực cạnh tranh  
+
+---
+
+## Hạn chế nghiên cứu
+
+* Quy mô mẫu nhỏ (55 doanh nghiệp) chưa đại diện toàn ngành  
+* Thời gian nghiên cứu ngắn (2019–2023)  
+* Chỉ sử dụng ROA và ROE để đo lường hiệu quả tài chính  
+* Chưa xem xét đầy đủ các yếu tố phi tài chính và yếu tố bên ngoài  
+
+---
+
+## Hướng nghiên cứu tiếp theo
+
+* Mở rộng quy mô mẫu và thời gian nghiên cứu  
+* Bổ sung thêm các biến nội bộ và yếu tố vĩ mô  
+* Áp dụng các phương pháp phân tích nâng cao  
+* So sánh giữa các ngành hoặc giữa các quốc gia để tăng tính khái quát
+
+---
 
 ## Công cụ
 - Excel
 - Stata
 - GitHub
+
+---
 
 ## Demo kết quả
 <img width="706" height="794" alt="image" src="https://github.com/user-attachments/assets/22e9b649-747c-44a5-91ae-214bd0e78060" />
